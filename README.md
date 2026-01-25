@@ -24,6 +24,7 @@ Configuration en **3 moteurs**  :
 Contrairement aux drones aériens, les ondes radio ne traversent pas l'eau. 
 * **Lien Ombilical :** Utilisation d'un câble Ethernet.
 * **Protocole :** Signal vidéo via un convertisseur Analogique -> USB ou via un pont Ethernet pour une caméra IP.
+* Caméra FPV (basse luminosité de préférence)
 
 ---
 

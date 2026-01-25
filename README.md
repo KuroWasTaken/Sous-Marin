@@ -35,7 +35,7 @@ Contrairement aux drones aériens, les ondes radio ne traversent pas l'eau.
 | **Batterie** | LiPo 3S 5000mAh | Autonomie env. 45 min |
 | **Moteurs** | Brushless  | Propulsion avec hélice 3 pales |
 | **Capteur** | MS5837 | Capteur de pression (profondeur) |
-| **IMU** | MPU6050 | Stabilisation d'assiette |
+| **IMU** | MPU6050 | Stabilisation  |
 
 ---
 

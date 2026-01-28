@@ -27,7 +27,8 @@ Contrairement aux drones aériens, les ondes radio ne traversent pas l'eau.
 * Caméra FPV (basse luminosité de préférence)
 
 
-**Premieres Ebauches sur solidworks**<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f1ea5d0-083e-4e82-a70d-5c1f70745363" />
+**Premieres Ebauches sur solidworks**<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ea78a6ce-d2e5-48d7-8a48-dcbbcfcb20ed" />
+/>
 
 ---
 
